@@ -1,0 +1,10 @@
+*.o
+*.exe
+.vscode
+.vs 
+x64 
+*.tgz
+__pycache__ 
+*.out 
+*~
+.backup
